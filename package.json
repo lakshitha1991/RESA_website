@@ -16,6 +16,7 @@
     "url": "https://github.com/lakshitha1991/RESA_website/issues"
   },
   "dependencies": {
-    "express": "~4.14.0"
+    "express": "~4.14.0",
+    "jade": "~1.11.0"
   }
 }
